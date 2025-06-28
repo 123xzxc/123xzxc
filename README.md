@@ -23,26 +23,14 @@
 
 </div>
 
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; max-width: 900px; margin: 0 auto;">
-  <tr>
-    <td width="50%" valign="top" style="padding: 8px; background-color: transparent; border: none;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=123xzxc&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%">
-      </a>
-    </td>
-    <td width="50%" valign="top" style="padding: 8px; text-align: left; background-color: transparent; border: none;">
-      <h3 style="margin-top: 0; color: #3b82f6;">柊韵韵喵</h3>
-      <p>这里是柊韵韵喵</p>
-      <div style="margin-top: 12px;">
-        <a href="https://github.com/123xzxc" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-        <a href="https://twitter.com/your_handle" target="_blank" rel="noopener noreferrer" style="margin-left: 8px;">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin: 20px 0;">
+  <div>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=123xzxc&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  <div style="max-width: 400px; text-align: left; padding: 10px;">
+    <h3 style="margin-top: 0;">柊韵韵喵</h3>
+    <p>这里是柊韵韵喵</p>
+  </div>
+</div>
 
 ![](https://github.com/123xzxc/snk/blob/8306163b0502eff2b55f9c0d819e00a21bf9d55e/docker/github-contribution-grid-snake.svg)
