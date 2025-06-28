@@ -1,4 +1,8 @@
-## 大家好，这里是柊韵韵 👋
+<div align="center">
+
+# 大家好，这里是柊韵韵 👋
+
+</div>
 [English](https://github.com/123xzxc/123xzxc/blob/main/README_ENG.md) [日本語](https://github.com/123xzxc/123xzxc/blob/main/README_JAP.md)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
