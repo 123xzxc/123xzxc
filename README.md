@@ -23,19 +23,15 @@
 
 </div>
 
-<table>
-  <tr>
-    <td width="60%">
-      
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=123xzxc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-    
-    </td>
-    <td width="40%">
-      <div align="center">
-        <h3>Test</h3>
-        <p>这里是柊韵韵，请多关照喵</p>
-      </div>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; margin-right: 10px;">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=123xzxc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <h3>test</h3>
+    <p>这里是柊韵韵<br>
+    请多关照喵</p>
+  </div>
+</div>
+
 ![](https://github.com/123xzxc/snk/blob/8306163b0502eff2b55f9c0d819e00a21bf9d55e/docker/github-contribution-grid-snake.svg)
