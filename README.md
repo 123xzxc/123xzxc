@@ -26,7 +26,9 @@
 <table>
   <tr>
     <td width="60%">
+      
       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=123xzxc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+    
     </td>
     <td width="40%">
       <div align="center">
