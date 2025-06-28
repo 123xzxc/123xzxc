@@ -25,7 +25,9 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; margin-right: 10px;">
+    
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=123xzxc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
   </div>
   <div style="flex: 1; text-align: center;">
     <h3>test</h3>
