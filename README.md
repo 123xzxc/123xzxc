@@ -22,15 +22,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin: 20px 0;">
-  <div>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=123xzxc&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-  <div style="max-width: 400px; text-align: left; padding: 10px;">
-    <h3 style="margin-top: 0;">柊韵韵喵</h3>
-    <p>这里是柊韵韵喵</p>
-  </div>
-</div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=123xzxc&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github.com/123xzxc/snk/blob/8306163b0502eff2b55f9c0d819e00a21bf9d55e/docker/github-contribution-grid-snake.svg)
