@@ -23,9 +23,26 @@
 
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=123xzxc&show_icons=true&theme=radical&hide_border=true&custom_title=我的GitHub数据)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**👋 关于我**  
-这里是柊韵韵喵
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top" style="padding: 8px;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=123xzxc&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%">
+      </a>
+    </td>
+    <td width="50%" valign="top" style="padding: 8px; text-align: left;">
+      <h3 style="margin-top: 0;">👋 柊韵韵</h3>
+      <p>这里是柊韵韵喵</p>
+      <div style="margin-top: 12px;">
+        <a href="https://github.com/123xzxc" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <a href="https://twitter.com/your_handle" target="_blank" rel="noopener noreferrer" style="margin-left: 8px;">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ![](https://github.com/123xzxc/snk/blob/8306163b0502eff2b55f9c0d819e00a21bf9d55e/docker/github-contribution-grid-snake.svg)
