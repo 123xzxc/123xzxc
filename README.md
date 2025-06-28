@@ -1,6 +1,6 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=123xzxc)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github.com/123xzxc/snk/blob/8306163b0502eff2b55f9c0d819e00a21bf9d55e/docker/github-contribution-grid-snake.svg) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=123xzxc)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/123xzxc/snk/blob/8306163b0502eff2b55f9c0d819e00a21bf9d55e/docker/github-contribution-grid-snake.svg)
 <!--
 **123xzxc/123xzxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
