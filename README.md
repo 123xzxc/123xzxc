@@ -22,5 +22,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=123xzxc&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=123xzxc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github.com/123xzxc/snk/blob/8306163b0502eff2b55f9c0d819e00a21bf9d55e/docker/github-contribution-grid-snake.svg)
