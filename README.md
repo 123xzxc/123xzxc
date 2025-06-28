@@ -23,19 +23,9 @@
 
 </div>
 
-<div style="display: flex; align-items: center;">
-  
-  <div style="flex: 1; margin-right: 10px;">
-    
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=123xzxc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- 
-  </div>
-  
-  <div style="flex: 1; text-align: center;">
-    <h3>test</h3>
-    <p>这里是柊韵韵<br>
-    请多关照喵</p>
-  </div>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=123xzxc&show_icons=true&theme=radical&hide_border=true&custom_title=我的GitHub数据)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**👋 关于我**  
+这里是柊韵韵喵
 
 ![](https://github.com/123xzxc/snk/blob/8306163b0502eff2b55f9c0d819e00a21bf9d55e/docker/github-contribution-grid-snake.svg)
